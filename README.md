@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a 4th Undergraduate at Chapman University<br>I'm studying Computer Science & Mathematics<br>I'm currently looking to specialize in Machine Learning<br>But I have skills in Backend Dev, Data Science, general SE, and Mathematics<br>I'm very adaptable and a very quick learner.<br> Currently working on personal projects and research projects for summer 2025
+I'm currently a 4th Undergraduate at Chapman University graduating in May 2026<br>I'm studying Computer Science & Mathematics<br>I'm currently looking to specialize in Machine Learning and AI<br>But I have skills in Backend Dev, Data Science, general SE, and Mathematics<br>I'm very adaptable and a very quick learner.<br> Currently working on personal projects and research projects for winter 2025
 
 
 ## 🌐 Socials:
